@@ -10,3 +10,4 @@ When the title is clicked, display a page with the Pasta's information, includin
 If the logged in user has favorited the Pasta, they should be able to "un-favorite"it as well.
 If the logged in user has not yet favorited the Pasta, there should be a link to add this Pasta to their favorites
 If the logged in user is the uploader of the Pasta, it should allow them to edit (same validations apply) or delete the Pasta, when clicking on viewing it.
+if the user is logged in they also can leave comments underneath each Pasta Viewed.
